@@ -1,5 +1,0 @@
-ext.moduleName = 'io.github.resilience4j.core'
-
-dependencies {
-    testImplementation(libraries.mock_clock)
-}
